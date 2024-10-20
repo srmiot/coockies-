@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coockies", "Coockies.csproj", "{CEBB9B64-F569-465B-AE23-99723AE79EEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEBB9B64-F569-465B-AE23-99723AE79EEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEBB9B64-F569-465B-AE23-99723AE79EEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEBB9B64-F569-465B-AE23-99723AE79EEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEBB9B64-F569-465B-AE23-99723AE79EEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4962AE8C-4C77-48C5-8A61-D01404ADBD1A}
+	EndGlobalSection
+EndGlobal
